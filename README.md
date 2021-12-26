@@ -5,7 +5,6 @@ Pete St. Onge here, aka @peat-monster, wearer of many hats over the years (teach
 
 I work mostly in the public sector, principally using open source technologies and processes to the particular needs of the individual customers I support, being sensitive to the financial / technical / operational circumstances in which they operate.
 
-
 My areas of interest revolve around how technology can help -- supporting, enabling, empowering, and securing -- the person while meeting business needs.
 
 
@@ -30,8 +29,5 @@ Technical
 - Technical Education, Training, and Awareness
 
 
-
-
-
-📫 pete point stonge point work at gmail point com
+Contact: 📫 pete point stonge point work at gmail point com
 
